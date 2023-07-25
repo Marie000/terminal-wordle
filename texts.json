@@ -1,0 +1,34 @@
+{
+    "play_again": {
+        "en": "Do you want to play again? Y/N \n",
+        "fr": "Veux-tu jouer encore? O/N \n"
+    },
+    "welcome": {
+        "en": "Welcome to terminal-wordle.",
+        "fr": "Bienvenue à terminal-wordle."
+    },
+    "guess": {
+        "en": "Your guess: ",
+        "fr": "Votre mot: "
+    },
+    "error_5_letters": {
+        "en": "Your guess should be 5 letters long.",
+        "fr": "Votre mot devrait avoir 5 lettres."
+    },
+    "win": {
+        "en": "You win!!!!",
+        "fr": "Vous avez gagné!!!!"
+    },
+    "lose": {
+        "en": "Nope. You lose!! the answer was: ",
+        "fr": "Non, vous avez perdu!! La réponse était: "
+    },
+    "score": {
+        "en": "You have played {} games and won {}",
+        "fr": "Vous avez joué {} parties et vous en avez gagné {}"
+    },
+    "score_percent": {
+        "en": "Your success rate is {}%",
+        "fr": "Votre taux de succes est de {}%"
+    }
+}
